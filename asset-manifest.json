@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/topzeeweb/static/css/main.8d68e668.css",
+    "main.js": "/topzeeweb/static/js/main.17d94f2d.js",
+    "static/js/787.6d40424c.chunk.js": "/topzeeweb/static/js/787.6d40424c.chunk.js",
+    "static/media/biri.jpg": "/topzeeweb/static/media/biri.9ffdbb7bfa47e1951dea.jpg",
+    "static/media/top-view-delicious-chicken-salad-with-mayyonaise-vegetables-white-desk-snack-ripe-color-meat-meal-salad.jpg": "/topzeeweb/static/media/top-view-delicious-chicken-salad-with-mayyonaise-vegetables-white-desk-snack-ripe-color-meat-meal-salad.477f0a54e8dac8495f6c.jpg",
+    "static/media/samplebiri.jpg": "/topzeeweb/static/media/samplebiri.b1c1d3b2bc1b351dc92b.jpg",
+    "index.html": "/topzeeweb/index.html",
+    "main.8d68e668.css.map": "/topzeeweb/static/css/main.8d68e668.css.map",
+    "main.17d94f2d.js.map": "/topzeeweb/static/js/main.17d94f2d.js.map",
+    "787.6d40424c.chunk.js.map": "/topzeeweb/static/js/787.6d40424c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d68e668.css",
+    "static/js/main.17d94f2d.js"
+  ]
+}
